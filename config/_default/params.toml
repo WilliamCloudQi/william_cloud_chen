@@ -55,8 +55,7 @@ phone = "+86 183 2270 5437"
 address = "Building 50, Tianjin University, Tianjin, 300350, China"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
